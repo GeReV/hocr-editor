@@ -11,7 +11,7 @@
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
     "css-box-model": "^1.2.1",
-    "immer": "^6.0.5",
+    "immer": "^8.0.1",
     "konva": "^6.0.0",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
